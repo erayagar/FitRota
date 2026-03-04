@@ -1,3 +1,5 @@
+Youtube Linki : https://youtube.com/shorts/NNFG-Eh1eus
+
 # FitRota 🏃‍♂️💧🔥
 
 **FitRota**, kişisel hedeflerinize ulaşmanız için adım, kalori ve su tüketimi gibi temel sağlık verilerinizi izlemenizi sağlayan, modern ve temiz tasarımlı (clean UI) bir mobil uygulamadır. Bu proje, React Native + Expo kullanılarak "Mobile App Geliştirme Challenge" kapsamında 2 saat içinde tasarlanmış ve geliştirilmiştir.
@@ -52,3 +54,4 @@ Uygulamayı `Expo Go` uygulaması üzerinden telefonunuzun kamerasıyla QR kodu 
 
 ---
 *Bu proje, Bootcamp / UI Challenge gereksinimleri çerçevesinde bir "Konsept ve Frontend Geliştirme" prototipi olarak hayata geçirilmiştir.*
+
